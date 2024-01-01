@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "netease-cloud-haiylihim-zhaojiaoshou.vercel.app/:match*"
+    }
+  ]
+}
